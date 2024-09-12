@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eymen</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Spring Boot & React**
 
 - 📫 How to reach me **eymenhanci@outlook.com**
 
